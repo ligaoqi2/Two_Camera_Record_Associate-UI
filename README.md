@@ -10,7 +10,7 @@ You can also download the [Aruco.exe](https://drive.google.com/file/d/1ws_l0VVdy
 pyinstaller -F -w ArucoUI.py
 ```
 Please make sure two Ipcameras and the PC is under the same Wifi.  
-Please make a suggestion in Issues.
+## Please make a suggestion in Issues.
 ### Requirements:
 ```
 pip install pyqt5
@@ -22,3 +22,8 @@ pip install numpy
 ### Renderings
 ![image](Rendering1.png)
 ![image](Rendering2.png)
+
+# Contact us
+```
+ligaoqi02@gmail.com
+```
