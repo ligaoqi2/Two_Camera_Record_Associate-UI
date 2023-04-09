@@ -1,4 +1,4 @@
-# twoCameraRecord_associate_UI
+# two-camera-record-associate-UI
 ## Here is a two camera associate UI system based on pyqt5
 We tend to use two Ipcameras to record different views' videos.  
 We use the Android App Ip摄像头 in [Google play store](https://play.google.com/)(Can be downloaded from [App Download Link](https://play.google.com/store/apps/details?id=com.pas.webcam))   
