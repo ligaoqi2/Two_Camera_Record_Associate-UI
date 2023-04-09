@@ -5,7 +5,7 @@ We use the Android App Ip摄像头 in [Google play store](https://play.google.co
 We use `requests` to send http request to set focus length and stop changing focus length.  
 We add the Record function by using the sub-sub QThread. The sub QThread is using to preview the image.  
 Due to the main thread cannot send a signal to the child thread in Qthread, So we use the global variables as the trigger signal of Record.  
-You can also download the [Aruco.exe](https://drive.google.com/file/d/1ws_l0VVdyTUz5JrJlbCa8dCuI5RnmZ15/view?usp=share_link) for Windows OS or generate the .exe by pyinstaller.  
+You can also download the [Aruco.exe](https://drive.google.com/file/d/1ws_l0VVdyTUz5JrJlbCa8dCuI5RnmZ15/view?usp=share_link) for Windows or generate the .exe by pyinstaller.  
 ```
 pyinstaller -F -w ArucoUI.py
 ```
